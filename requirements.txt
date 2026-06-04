@@ -20,3 +20,5 @@ passlib[bcrypt]
 python-multipart
 passlib[argon2]
 argon2-cffi
+pytest
+httpx
